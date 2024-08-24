@@ -1,2 +1,2 @@
-[**Назад**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
-# Графика
+[**РќР°Р·Р°Рґ**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
+# Р“СЂР°С„РёРєР°

@@ -1,2 +1,2 @@
-[**Назад**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
-# Пользовательский ввод
+[**РќР°Р·Р°Рґ**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
+# РџРѕР»СЊР·РѕРІР°С‚РµР»СЊСЃРєРёР№ РІРІРѕРґ

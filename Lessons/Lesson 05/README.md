@@ -1,2 +1,2 @@
-[**Õ‡Á‡‰**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
-# ŒŒœ ‚ JS
+[**–ù–∞–∑–∞–¥**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
+# –û–û–ü –≤ JS

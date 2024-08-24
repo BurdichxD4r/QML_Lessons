@@ -1,2 +1,2 @@
-[**Назад**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
-# Элементы QML
+[**РќР°Р·Р°Рґ**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
+# Р­Р»РµРјРµРЅС‚С‹ QML

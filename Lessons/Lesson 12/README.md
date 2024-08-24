@@ -1,2 +1,2 @@
-[**Назад**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
-# Модель Представление
+[**РќР°Р·Р°Рґ**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
+# РњРѕРґРµР»СЊ РџСЂРµРґСЃС‚Р°РІР»РµРЅРёРµ

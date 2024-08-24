@@ -1,2 +1,2 @@
-[**Назад**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
-# Разбор готовых программ
+[**РќР°Р·Р°Рґ**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
+# Р Р°Р·Р±РѕСЂ РіРѕС‚РѕРІС‹С… РїСЂРѕРіСЂР°РјРј

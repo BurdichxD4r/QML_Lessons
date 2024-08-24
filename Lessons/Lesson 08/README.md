@@ -1,2 +1,2 @@
-[**Назад**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
-# Размещение элементов
+[**РќР°Р·Р°Рґ**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
+# Р Р°Р·РјРµС‰РµРЅРёРµ СЌР»РµРјРµРЅС‚РѕРІ

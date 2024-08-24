@@ -1,2 +1,2 @@
-[**Õ‡Á‡‰**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
+[**–ù–∞–∑–∞–¥**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
 # GUI QML

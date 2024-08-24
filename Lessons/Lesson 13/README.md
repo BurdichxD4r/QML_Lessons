@@ -1,2 +1,2 @@
-[**Õ‡Á‡‰**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
-# QML Ë CPP
+[**–ù–∞–∑–∞–¥**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
+# QML –∏ CPP

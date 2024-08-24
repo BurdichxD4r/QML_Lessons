@@ -1,2 +1,2 @@
-[**Назад**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
-# Синтаксис языка сценариев
+[**РќР°Р·Р°Рґ**](https://github.com/BurdichxD4r/QML_Lessons/tree/master)
+# РЎРёРЅС‚Р°РєСЃРёСЃ СЏР·С‹РєР° СЃС†РµРЅР°СЂРёРµРІ
