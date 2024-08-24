@@ -2,18 +2,18 @@
 
 |***Lessons***|***Home work***|
 |---|:-:|
-|• [***Lesson_1***](https://github.com/BurdichxD4r/.....)<br>Знакомство с Qt Quick - [video](https://youtu.be/tARGB-igsc0)|[***HW_1***](https://github.com/BurdichxD4r/.....)|
-|• [***Lesson_2***](https://github.com/BurdichxD4r/.....)<br>Введение в сценарии - [video](https://youtu.be/.....)|[***HW_2***](https://github.com/BurdichxD4r/.....)|
-|• [***Lesson_3***](https://github.com/BurdichxD4r/.....)<br>Синтаксис языка сценариев - [video](https://youtu.be/.....)|[***HW_3***](https://github.com/BurdichxD4r/.....)|
-|• [***Lesson_4***](https://github.com/BurdichxD4r/.....)<br>Oбъекты JS - [video](https://youtu.be/.....)|[***HW_4***](https://github.com/BurdichxD4r/.....)|
-|• [***Lesson_5***](https://github.com/BurdichxD4r/.....)<br>ООП в JS - [video](https://youtu.be/.....)|[***HW_5***](https://github.com/BurdichxD4r/.....)|
-|• [***Lesson_6***](https://github.com/BurdichxD4r/.....)<br>Элементы QML - [video](https://youtu.be/.....)|[***HW_6***](https://github.com/BurdichxD4r/.....)|
-|• [***Lesson_7***](https://github.com/BurdichxD4r/.....)<br>GUI QML - [video](https://youtu.be/.....)|[***HW_7***](https://github.com/BurdichxD4r/.....)|
-|• [***Lesson_8***](https://github.com/BurdichxD4r/.....)<br>Размещение элементов - [video](https://youtu.be/.....)|[***HW_8***](https://github.com/BurdichxD4r/.....)|
-|• [***Lesson_9***](https://github.com/BurdichxD4r/.....)<br>Графика - [video](https://youtu.be/.....)|[***HW_9***](https://github.com/BurdichxD4r/.....)|
-|• [***Lesson_10***](https://github.com/BurdichxD4r/.....)<br>Пользовательский ввод - [video](https://youtu.be/KaIAICmkpwo)|[***HW_10***](https://github.com/BurdichxD4r/.....)|
-|• [***Lesson_11***](https://github.com/BurdichxD4r/.....)<br>Анимация - [video](https://youtu.be/.....)|[***HW_11***](https://github.com/BurdichxD4r/.....)|
-|• [***Lesson_12***](https://github.com/BurdichxD4r/.....)<br>Модель Представление - [video](https://youtu.be/.....)|[***HW_12***](https://github.com/BurdichxD4r/.....)|
-|• [***Lesson_13***](https://github.com/BurdichxD4r/.....)<br>QML и CPP - [video](https://youtu.be/.....)|[***HW_13***](https://github.com/BurdichxD4r/.....)|
-|• [***Lesson_14***](https://github.com/BurdichxD4r/.....)<br>3D-графика - [video](https://youtu.be/.....)|[***HW_14***](https://github.com/BurdichxD4r/.....)|
-|• [***Lesson_15***](https://github.com/BurdichxD4r/.....)<br>Разбор готовых программ - [video](https://youtu.be/.....)|[***HW_15***](https://github.com/BurdichxD4r/.....)|
+|• [***Lesson_1***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Lessons/Lesson%2001#знакомство-с-qt-quick)		<br>Знакомство с Qt Quick -			[video](https://youtu.be/tARGB-igsc0)|[***HW_1***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Home_works/home_work_01#task_1)|
+|• [***Lesson_2***](https://github.com/BurdichxD4r/QML_Lessons/blob/master/Lessons/Lesson%2002#введение-в-сценарии)			<br>Введение в сценарии -			[video](https://youtu.be/.....)|[***HW_2***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Home_works/home_work_02#task_1)|
+|• [***Lesson_3***](https://github.com/BurdichxD4r/QML_Lessons/blob/master/Lessons/Lesson%2003#синтаксис-языка-сценариев)	<br>Синтаксис языка сценариев -		[video](https://youtu.be/.....)|[***HW_3***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Home_works/home_work_03#task_1)|
+|• [***Lesson_4***](https://github.com/BurdichxD4r/QML_Lessons/blob/master/Lessons/Lesson%2004#oбъекты-js)					<br>Oбъекты JS -					[video](https://youtu.be/.....)|[***HW_4***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Home_works/home_work_04#task_1)|
+|• [***Lesson_5***](https://github.com/BurdichxD4r/QML_Lessons/blob/master/Lessons/Lesson%2005#ооп-в-js)					<br>ООП в JS -						[video](https://youtu.be/.....)|[***HW_5***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Home_works/home_work_05#task_1)|
+|• [***Lesson_6***](https://github.com/BurdichxD4r/QML_Lessons/blob/master/Lessons/Lesson%2006#элементы-qml)				<br>Элементы QML -					[video](https://youtu.be/.....)|[***HW_6***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Home_works/home_work_06#task_1)|
+|• [***Lesson_7***](https://github.com/BurdichxD4r/QML_Lessons/blob/master/Lessons/Lesson%2007#gui-qml)						<br>GUI QML -						[video](https://youtu.be/.....)|[***HW_7***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Home_works/home_work_07#task_1)|
+|• [***Lesson_8***](https://github.com/BurdichxD4r/QML_Lessons/blob/master/Lessons/Lesson%2008#размещение-элементов)		<br>Размещение элементов -			[video](https://youtu.be/.....)|[***HW_8***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Home_works/home_work_08#task_1)|
+|• [***Lesson_9***](https://github.com/BurdichxD4r/QML_Lessons/blob/master/Lessons/Lesson%2009#графика)						<br>Графика -						[video](https://youtu.be/.....)|[***HW_9***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Home_works/home_work_09#task_1)|
+|• [***Lesson_10***](https://github.com/BurdichxD4r/QML_Lessons/blob/master/Lessons/Lesson%2010#пользовательский-ввод)		<br>Пользовательский ввод -			[video](https://youtu.be/KaIAICmkpwo)|[***HW_10***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Home_works/home_work_10#task_1)|
+|• [***Lesson_11***](https://github.com/BurdichxD4r/QML_Lessons/blob/master/Lessons/Lesson%2011#анимация)					<br>Анимация -						[video](https://youtu.be/.....)|[***HW_11***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Home_works/home_work_11#task_1)|
+|• [***Lesson_12***](https://github.com/BurdichxD4r/QML_Lessons/blob/master/Lessons/Lesson%2012#модель-представление)		<br>Модель Представление -			[video](https://youtu.be/.....)|[***HW_12***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Home_works/home_work_12#task_1)|
+|• [***Lesson_13***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Lessons/Lesson%2013#qml-и-cpp)					<br>QML и CPP -						[video](https://youtu.be/.....)|[***HW_13***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Home_works/home_work_13#task_1)|
+|• [***Lesson_14***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Lessons/Lesson%2014#3d-графика)					<br>3D-графика -					[video](https://youtu.be/.....)|[***HW_14***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Home_works/home_work_14#task_1)|
+|• [***Lesson_15***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Lessons/Lesson%2015#разбор-готовых-программ)	<br>Разбор готовых программ -		[video](https://youtu.be/.....)|[***HW_15***](https://github.com/BurdichxD4r/QML_Lessons/tree/master/Home_works/home_work_15#task_1)|
